@@ -1,14 +1,14 @@
 #!/usr/bin/python
 #######################
-#  http://fb.com/ubaii.id.9  #
+# By.Team ZonaRedXXII #
 #######################
 mess = """======================================================
-             Deface Script Creator        
-                        Ubaii ID.
+             Script Deface ZonaredXXII        
+             Security Hacker Commander
 ======================================================"""
 
 print mess
-print "Created by Ubaii ID"
+print "Created by Mr.XXII"
 title = raw_input("Judul title: ")
 heading = raw_input("Hacked by: ")
 imagelink = raw_input("link gambar (tengah): ")

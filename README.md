@@ -1,4 +1,6 @@
-# script-deface-Mr.XXII
-Script deface ZonaredXXII
-$ pkg install git
-$ git clone https://github.com/zonaredXXII/SCdefaceXXII.git
+# script-deface-Mr.XXII <br>
+Script deface ZonaredXXII <br>
+$ pkg install git <br>
+$ git clone https://github.com/HRCXXII/SCdeface <br>
+$ cd SCdeface <br>
+$ python2 SCdeface.py <br>
